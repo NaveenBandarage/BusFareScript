@@ -17,6 +17,14 @@ function subtractSingleTrip(a) {
 
 function subtractFullDay(a) { 
         return num = parseFloat(a) - 3
-        } 
+    } 
+
+function subtractSingleTripSnapper(a){
+  return num = parseFloat(a) - 1.55 
+}
+
+function subtract10Trip(a){
+  return num = parseFloat(a) - 33
+}
 
 
